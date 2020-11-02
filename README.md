@@ -8,24 +8,21 @@ only by killing a monster.**
 
 <hr>
 
-
-**Beginning of the game**
+### **Beginning of the game**
 
 <hr>
 
 ![Image alt](node_modules/elven-scout/dist/img/game1.png)
 <hr>
 
-
-**Opening scene**
+### **Opening scene**
 
 <hr>
 
 ![Image alt](node_modules/elven-scout/dist/img/game2.png)
 <hr>
 
-
-**Game process**
+### **Game process**
 
 <hr>
 
