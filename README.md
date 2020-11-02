@@ -2,7 +2,7 @@
 
 <hr>
 
-**This game about a little girl  '_Mila_' , who got lost in the 
+### **This game about a little girl  '_Mila_' , who got lost in the 
 forest and had the opportunity to get out of it - 
 only by killing a monster.**
 
