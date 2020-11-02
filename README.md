@@ -1,7 +1,18 @@
-"# game-js" 
-<img src='node_modules/disc/img/game1.png'>
-<img src='node_modules/disc/img/game2.png'>
+### **`SUETA`**
+
+<hr>
+
+**This game about a little girl  '_Mila_' , who got lost in the 
+forest and had the opportunity to get out of it - 
+only by killing a monster.**
+
+<hr>
 
 
-![Image alt](https://github.com/Mol0D337/game-js/raw/main/node_modules/disc/img/game1.png)
+![Image alt](node_modules/elven-scout/dist/img/game1.png)
+<hr>
 
+![Image alt](node_modules/elven-scout/dist/img/game2.png)
+<hr>
+
+![Image alt](node_modules/elven-scout/dist/img/game2.png)
